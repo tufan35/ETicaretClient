@@ -1,0 +1,2 @@
+Notlar
+- Tüm modüller routelardan tasarlanır.
